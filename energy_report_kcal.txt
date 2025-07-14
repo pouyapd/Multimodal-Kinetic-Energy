@@ -1,0 +1,8 @@
+Body Part, Average Energy (kcal)
+Upper Body, 0.0166 kcal
+Lower Body, 0.0015 kcal
+Right Arm, 0.0012 kcal
+Left Arm, 0.0029 kcal
+Right Leg, 0.0011 kcal
+Left Leg, 0.0006 kcal
+Whole Body, 0.0239 kcal
